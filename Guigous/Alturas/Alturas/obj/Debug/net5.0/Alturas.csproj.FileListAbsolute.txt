@@ -1,0 +1,16 @@
+C:\Users\gui_1\source\repos\Alturas\Alturas\bin\Debug\net5.0\Alturas.exe
+C:\Users\gui_1\source\repos\Alturas\Alturas\bin\Debug\net5.0\Alturas.deps.json
+C:\Users\gui_1\source\repos\Alturas\Alturas\bin\Debug\net5.0\Alturas.runtimeconfig.json
+C:\Users\gui_1\source\repos\Alturas\Alturas\bin\Debug\net5.0\Alturas.runtimeconfig.dev.json
+C:\Users\gui_1\source\repos\Alturas\Alturas\bin\Debug\net5.0\Alturas.dll
+C:\Users\gui_1\source\repos\Alturas\Alturas\bin\Debug\net5.0\ref\Alturas.dll
+C:\Users\gui_1\source\repos\Alturas\Alturas\bin\Debug\net5.0\Alturas.pdb
+C:\Users\gui_1\source\repos\Alturas\Alturas\obj\Debug\net5.0\Alturas.csproj.AssemblyReference.cache
+C:\Users\gui_1\source\repos\Alturas\Alturas\obj\Debug\net5.0\Alturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui_1\source\repos\Alturas\Alturas\obj\Debug\net5.0\Alturas.AssemblyInfoInputs.cache
+C:\Users\gui_1\source\repos\Alturas\Alturas\obj\Debug\net5.0\Alturas.AssemblyInfo.cs
+C:\Users\gui_1\source\repos\Alturas\Alturas\obj\Debug\net5.0\Alturas.csproj.CoreCompileInputs.cache
+C:\Users\gui_1\source\repos\Alturas\Alturas\obj\Debug\net5.0\Alturas.dll
+C:\Users\gui_1\source\repos\Alturas\Alturas\obj\Debug\net5.0\ref\Alturas.dll
+C:\Users\gui_1\source\repos\Alturas\Alturas\obj\Debug\net5.0\Alturas.pdb
+C:\Users\gui_1\source\repos\Alturas\Alturas\obj\Debug\net5.0\Alturas.genruntimeconfig.cache

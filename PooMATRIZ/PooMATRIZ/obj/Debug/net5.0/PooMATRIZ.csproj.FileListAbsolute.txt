@@ -1,0 +1,16 @@
+C:\Users\gui_1\source\repos\PooMATRIZ\PooMATRIZ\bin\Debug\net5.0\PooMATRIZ.exe
+C:\Users\gui_1\source\repos\PooMATRIZ\PooMATRIZ\bin\Debug\net5.0\PooMATRIZ.deps.json
+C:\Users\gui_1\source\repos\PooMATRIZ\PooMATRIZ\bin\Debug\net5.0\PooMATRIZ.runtimeconfig.json
+C:\Users\gui_1\source\repos\PooMATRIZ\PooMATRIZ\bin\Debug\net5.0\PooMATRIZ.runtimeconfig.dev.json
+C:\Users\gui_1\source\repos\PooMATRIZ\PooMATRIZ\bin\Debug\net5.0\PooMATRIZ.dll
+C:\Users\gui_1\source\repos\PooMATRIZ\PooMATRIZ\bin\Debug\net5.0\ref\PooMATRIZ.dll
+C:\Users\gui_1\source\repos\PooMATRIZ\PooMATRIZ\bin\Debug\net5.0\PooMATRIZ.pdb
+C:\Users\gui_1\source\repos\PooMATRIZ\PooMATRIZ\obj\Debug\net5.0\PooMATRIZ.csproj.AssemblyReference.cache
+C:\Users\gui_1\source\repos\PooMATRIZ\PooMATRIZ\obj\Debug\net5.0\PooMATRIZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui_1\source\repos\PooMATRIZ\PooMATRIZ\obj\Debug\net5.0\PooMATRIZ.AssemblyInfoInputs.cache
+C:\Users\gui_1\source\repos\PooMATRIZ\PooMATRIZ\obj\Debug\net5.0\PooMATRIZ.AssemblyInfo.cs
+C:\Users\gui_1\source\repos\PooMATRIZ\PooMATRIZ\obj\Debug\net5.0\PooMATRIZ.csproj.CoreCompileInputs.cache
+C:\Users\gui_1\source\repos\PooMATRIZ\PooMATRIZ\obj\Debug\net5.0\PooMATRIZ.dll
+C:\Users\gui_1\source\repos\PooMATRIZ\PooMATRIZ\obj\Debug\net5.0\ref\PooMATRIZ.dll
+C:\Users\gui_1\source\repos\PooMATRIZ\PooMATRIZ\obj\Debug\net5.0\PooMATRIZ.pdb
+C:\Users\gui_1\source\repos\PooMATRIZ\PooMATRIZ\obj\Debug\net5.0\PooMATRIZ.genruntimeconfig.cache
